@@ -1,3 +1,11 @@
+https://transcendent-sorbet-0b3bf5.netlify.app
+
+https://github.com/DelfinaGist/Sky-Check.git
+
+https://delfinagist.github.io/Sky-Check/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
