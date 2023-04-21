@@ -4,7 +4,8 @@ https://github.com/DelfinaGist/Sky-Check.git
 
 https://delfinagist.github.io/Sky-Check/
 
-
+At top of app, type in a name of the city that you would like weather information for.
+The name of the city will print on the screen. And the current tempreture will print under the city name. Other weather information that will also print is Feels Like Tempreture, Humidity, and Wind Speed.
 
 # Getting Started with Create React App
 
