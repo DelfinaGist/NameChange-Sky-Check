@@ -1,5 +1,5 @@
-require("dotenv").config();
-console.log(process.env);
+// require("dotenv").config();
+// console.log(process.env);
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
