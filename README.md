@@ -3,7 +3,11 @@ Technologies used for this project: CSS, HTML, JAVE SCRIPT, API, AND REACT LIBRA
 
 The approach was to receive weather information from the API via the API key to provide the user with weather information.
 
-Live link to Sky-Check Weather App: 
+Live link to Sky-Check Weather App: # 
+
+# [Netlify Live Link](https://transcendent-sorbet-0b3bf5.netlify.app/)
+
+# [Github link of html version](https://delfinagist.github.io/Sky-Check/)
 
 
 To display weather information from the Sky-Check weather app type in a location (city or state).
