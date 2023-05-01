@@ -4,15 +4,21 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: linear-gradient(#98f3db, #b4a9f7)
 }
 
 .input {
   padding: 5px;
   width: 45%;
   margin: auto;
-  border: 6px solid green;
+  border: 6px solid rgb(104, 179, 201);
   border-radius: 10px;
-  font-size: 20px;
+  font-size: 15px;
+}
+
+.input:focus {
+  outline: none;
+  border: 8px solid rgb(199, 167, 238);
 }
 
 .weather-data {
